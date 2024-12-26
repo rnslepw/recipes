@@ -1,0 +1,58 @@
+body {
+  padding: 3rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: cadetblue;
+  line-height: 1.5rem;
+}
+
+.hero, .recipe-img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 3rem;
+}
+
+.hero {
+  width: 600px;
+}
+
+.recipe-img {
+  width: 500px;
+}
+
+.box {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.title, .subtitle {
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 3rem;
+}
+
+.menu {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+
+ul, ol {
+  padding: 0;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: cadetblue;
+}
+
+.home-link {
+  display: block;
+  text-align: center;
+  margin-top: 3rem;
+}
+
